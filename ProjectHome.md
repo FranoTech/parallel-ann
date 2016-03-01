@@ -1,0 +1,1 @@
+Here we are implementing an Parallel Artificial Neural Network for Identification of the shape and recognizing what the object is.We are using Opencv libraries.
